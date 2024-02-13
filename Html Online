@@ -1,0 +1,39 @@
+<html>
+<body style="background-color:powderblue;"><!BACKGROUND>
+<h1 style="text-align: center; color: #3f7320;">Thomas' Site</h1>
+<table border="2" style="height: 345px; width: 99.1569%; border-collapse: collapse; border-color: green; background-color: violet;" cellpadding="2" cellspacing="2"><!Table properties>
+<tbody>
+<tr style="height: 78px;">
+<td style="width: 50%; height: 78px;">
+<p></p>
+<h2><strong>Hobbies</strong></h2>
+</td>
+<td style="width: 50%; height: 78px;">
+<p></p>
+<h2><strong>Foods</strong></h2>
+</td>
+</tr>
+<tr style="height: 257px;">
+<td style="width: 50%; height: 257px;">
+<p><img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Tommy_Milone_gives_up_a_home_run_to_Mike_Trout_on_May_21%2C_2017.jpg" alt="basebll" width="300" /></p>
+<p>Baseball is americas favorite pastime and it's mine as well. I have been playing baseball my whole life and have even joined the Stuyvesant baseball team.</p>
+</td>
+<td style="width: 50%; height: 257px;">
+<p>As a true New Yorker Pizza is my favorite food. The cheese and sause make a great texture and flavor that you just never gets old.</p>
+<p><img src="https://t1.gstatic.com/licensed-image?q=tbn:ANd9GcRoeUqD7lgiXavof_C8DW2QeI-BHIzGPLKRPCWinurLGGMBT7GSml0le6bQro8yWjAa" alt="pizza" width="300" /></p>
+</td>
+</tr>
+<tr style="height: 10px;">
+<td style="width: 50%; height: 10px;">
+<p><img src="https://www.daysoftheyear.com/cdn-cgi/image/dpr=1%2Cf=auto%2Cfit=cover%2Cheight=650%2Cq=40%2Csharpen=1%2Cwidth=956/wp-content/uploads/world-piano-day.jpg" alt="piano" width="300" /></p>
+<p>Piano is another hobby I partake in. I have been practicing off and on for about 5 years and have mostly focused on popular songs such as&nbsp;Bohemian Rhapsody and Piano Man</p>
+</td>
+<td style="width: 50%; height: 10px;">
+<p>Rigatoni pasta is my second favorite food. As you can see Italian is my favorite, and what better fancy Italian foodthan pasta.&nbsp;</p>
+<p><img src="https://food.fnr.sndimg.com/content/dam/images/food/fullset/2021/02/05/Baked-Feta-Pasta-4_s4x3.jpg.rend.hgtvcom.1280.1280.suffix/1615916524567.jpeg" alt="pasta" width="253" height="253" /></p>
+</td>
+</tr>
+</tbody>
+</table>
+</body>
+</html>
